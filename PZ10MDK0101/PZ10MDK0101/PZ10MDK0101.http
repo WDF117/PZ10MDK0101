@@ -1,0 +1,6 @@
+@PZ10MDK0101_HostAddress = http://localhost:5094
+
+GET {{PZ10MDK0101_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
